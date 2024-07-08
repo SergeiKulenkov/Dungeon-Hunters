@@ -1,0 +1,28 @@
+/.vscode
+/.plastic
+# trying to show all project folders, not just ignore everything except the code
+/Assets/Animations
+/Assets/AstarPathfindingProject
+/Assets/Audio
+/Assets/Configs
+/Assets/Prefabs
+/Assets/Rendering
+/Assets/Resources
+/Assets/Scenes
+/Assets/Sprites
+/Assets/TextMesh Pro
+
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/UserSettings
+
+Assembly-CSharp.csproj
+AstarPathfindingProject.csproj
+AstarPathfindingProjectEditor.csproj
+Dungeons.sln
+ignore.conf
+PackageToolsEditor.csproj
+*.meta
